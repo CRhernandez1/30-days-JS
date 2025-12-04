@@ -9,7 +9,8 @@ The goal is to build 30 projects in 30 days using **Vanilla JavaScript** (no Fra
 | Day | Project             | Key Concepts                                          | Status       |
 | :-- | :------------------ | :---------------------------------------------------- | :----------- |
 | 01  | JavaScript Drum Kit | Keyboard Events, Audio API, CSS Transitions           | ✅ Completed |
-| 02  | JS and CSS Clock    | Date Object, CSS Transforms (rotate), Real-time logic | ⏳ Pending   |
+| 02  | JS and CSS Clock    | Date Object, CSS Transforms (rotate), Real-time logic | ✅ Completed |
+| 03  | CSS Variables       | CSS Variables, MouseMove Event, Style Property        | ⏳ Pending   |
 | ... | ...                 | ...                                                   | ...          |
 
 _(I will update this table as I progress through the challenge)_
