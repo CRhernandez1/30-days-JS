@@ -11,7 +11,8 @@ The goal is to build 30 projects in 30 days using **Vanilla JavaScript** (no Fra
 | 01  | JavaScript Drum Kit | Keyboard Events, Audio API, CSS Transitions           | ✅ Completed |
 | 02  | JS and CSS Clock    | Date Object, CSS Transforms (rotate), Real-time logic | ✅ Completed |
 | 03  | CSS Variables       | CSS Variables, MouseMove Event, Style Property        | ✅ Completed |
-| 04  | Array Cardio Day 1  | Array Methods (filter, map, sort, reduce)             | ⏳ Pending   |
+| 04  | Array Cardio Day 1  | Array Methods (filter, map, sort, reduce)             | ✅ Completed |
+| 05  | Flex Panel Gallery  | CSS Flexbox, Transition End, Class Toggling           | ⏳ Pending   |
 | ... | ...                 | ...                                                   | ...          |
 
 _(I will update this table as I progress through the challenge)_
